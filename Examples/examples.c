@@ -1,5 +1,7 @@
 #include "GLAL/cgl.h"
 
+// For Cofii Users
+
 int main()
 {
     InitCGL();
